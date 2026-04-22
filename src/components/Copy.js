@@ -1,17 +1,13 @@
-import "../styles/App.css"
-import gitHub from "../assets/images/github-logo.png"
-import linkedin from "../assets/images/linkedin.png"
+import React from "react";
 
-export default function Copy() {
+export default function Copybar() {
   return (
-      <footer>
-          <p>This website is not official from Lamborghini.</p>
-          <a href="https://github.com/ckzwebber" target="_blank" rel="noopener noreferrer">
-              <img className="social" src={gitHub} alt="GitHub logo"/>
-          </a>
-          <a href="https://www.linkedin.com/in/cmiguelwm/" target="_blank" rel="noopener noreferrer">
-              <img className="social" src={linkedin} alt="Linkedin"/>
-          </a>
-      </footer>
+    <footer className="copybar">
+      <span>© 2026 — UNOFFICIAL LAMBORGHINI FAN STUDY. NOT AFFILIATED WITH AUTOMOBILI LAMBORGHINI S.P.A.</span>
+      <span className="copybar__links">
+        <a href="https://github.com/ckzwebber" target="_blank" rel="noopener noreferrer">GITHUB</a>
+        <a href="https://www.linkedin.com/in/cmiguelwm/" target="_blank" rel="noopener noreferrer">LINKEDIN</a>
+      </span>
+    </footer>
   );
 }

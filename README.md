@@ -4,49 +4,27 @@
 [![CSS](https://img.shields.io/badge/CSS-0085A1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Seja bem-vindo! Esse é o código-fonte do site **Lamborghini-Project**! Nele desenvolvi várias páginas não-oficiais da grande marca automobilística **Lamborghini**.
+Site não-oficial da Lamborghini desenvolvido como projeto de estudo em React.
 
-Confira aqui: [Lamborghini Project](https://webberlamborghini.netlify.app/)
+Demo: [webberlamborghini.netlify.app](https://webberlamborghini.netlify.app/)
 
+## Visão geral
 
----
+Projeto pessoal com foco em prática de React e desenvolvimento front-end. Consiste em um site institucional fictício, com páginas de modelos, informações da marca e contato.
 
-## 📌 Visão Geral
+## Tecnologias
 
-Esse site faz parte dos meus estudos em **React** e **desenvolvimento web**. Nele, criei várias páginas não-oficiais para a **Lamborghini**, e espero que você goste e aprecie o design e as funcionalidades!
+- React
+- JavaScript
+- CSS
 
----
+## Páginas
 
-## 🔧 Tecnologias
+- `Home`: página inicial
+- `Models`: catálogo de modelos
+- `About`: informações sobre a marca
+- `Contact`: formulário de contato
 
-- **React**
-- **CSS**
-- **JavaScript**
+## Licença
 
----
-
-## 🔑 Conteúdo
-
-- **Home**: Página inicial do site.
-- **Models**: Modelos de carros da Lamborghini.
-- **About**: Informações sobre a marca Lamborghini.
-- **Contact**: Página para entrar em contato comigo.
-
----
-
-## 🔄 Contribuições
-
-Fique à vontade para dar uma olhada no código e contribuir. Deixe seu feedback!
-
----
-
-## 📞 Contato
-
-Fique à vontade para entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/cmiguelwm/).  
-Até mais! 👋
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença **MIT**.
+MIT
